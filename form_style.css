@@ -1,0 +1,18 @@
+.hregister{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    background-color: aqua;
+}
+
+.form{
+    background-color: lightgreen;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 20px 10px;
+}
+.center{
+    display: flex;
+    justify-content: center;
+}
